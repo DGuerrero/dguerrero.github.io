@@ -1,6 +1,6 @@
 ---
 title: Third Post
-author: Chris
+author: David Guerrero
 layout: post
 icon: fa-lightbulb
 icon-style: regular
